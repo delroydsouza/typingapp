@@ -1,0 +1,14 @@
+.container {
+  height: 100vh;
+  top: 30vh;
+}
+.pending {
+  color: grey;
+}
+.correct {
+  color: green;
+}
+.incorrect {
+  color: red;
+  font-weight: bold;
+}
